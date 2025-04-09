@@ -12,7 +12,7 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'Chili B POV Intro/Outro Animations',   url: 'chilibpovanimation'}
+- {name: 'Chili B POV Intro/Outro Animations',   url: 'chilibanimation'}
 - {name: 'Common Area Writers Membership Stickers',   url: 'camsticker'}
 - {name: 'Neighborhood Cat-Alog', url: 'neighborhoodcatalog'}
 - {name: 'Personal Illustrations',  url: 'personal'}

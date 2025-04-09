@@ -1,11 +1,11 @@
 .project-container
   display: grid
-  grid-template-columns: repeat(3, 1fr)
+  grid-template-columns: repeat(3, 1fr) // ← exactly 3 columns on wide screens
   gap: 20px
-  padding: 30px
   width: 100%
-  max-width: 1200px
+  max-width: 1200px // ← enough room for 3 evenly spaced squares
   margin: 0 auto
+  padding: 30px
 
   .project-unit
     width: 100%
@@ -13,7 +13,7 @@
     position: relative
     overflow: hidden
     cursor: pointer
-    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23)
+    /* box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23) */ 
     background:
       position: center center
       repeat: no-repeat
@@ -34,7 +34,7 @@
         color: white
         line-height: 1.2
         font:
-          size: 18px
+          size: 24px
           weight: 300
 
     &:hover .project-overlay
