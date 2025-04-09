@@ -3,8 +3,11 @@ layout: post
 title: 'Chili B POV Animation'
 ---
 
-Mauris velit metus, tempor gravida nulla eget, auctor accumsan tellus. Curabitur volutpat sed dolor quis tempus. In scelerisque aliquam felis at tincidunt. Proin non augue fringilla, [pretium justo vitae](#), maximus dui. Nunc ipsum nisi, fermentum sit amet volutpat cursus, sodales ac nisl. Quisque nec tellus sem. Cras pharetra felis non quam mollis, nec efficitur lectus aliquet. Maecenas ipsum felis, eleifend nec [semper venenatis](#), consequat ut nunc. Donec est augue, facilisis quis placerat sed, imperdiet sit amet neque. Maecenas nec risus metus. Nunc non condimentum ipsum. Phasellus consectetur dapibus massa, convallis iaculis nisi vestibulum id. Phasellus et fringilla augue. Donec consequat dui ut rutrum elementum. Aenean nisi arcu, ornare eu lacus vel, faucibus tempor tortor.
+I created a custom intro and outro animation for Chili B POV, an ASMR YouTube channel. Working closely with the channel’s creator, Hannah, I designed animations that visually reflect the magical tone of her content while staying true to her existing brand colors and aesthetic. This project highlights my ability to translate a client’s vision into motion, bringing together brand identity, mood, and storytelling in a cohesive animated package.
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/dog.jpg" %}
+#### Initial sketches
+![](projects/chilibanimation/sketch.jpg)
+{% include image.html image="projects/chilibanimation/sketch.jpg" %}
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/wall.jpg" %}
+#### Final product
+TODO: Embed the animations
