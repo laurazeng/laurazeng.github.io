@@ -3,25 +3,25 @@
 
 menu:
 - {name: 'Home', url: ''}
-- {name: 'About',    url: 'about'}
 - {name: 'Portfolio',     url: 'portfolio'}
+- {name: 'Posts',     url: 'posts'}
 - {name: 'Contact',  url: 'contact'}
+- {name: 'Shop', url: 'http://lauradzeng.square.site/'}
 
 #-------------------------------
 # Projects Section
 
 projects:
-- {name: 'Project One',   url: 'proj-1'}
-- {name: 'Project Two',   url: 'proj-2'}
-- {name: 'Project Three', url: 'proj-3'}
-- {name: 'Project Four',  url: 'proj-4'}
-- {name: 'Project Five',  url: 'proj-5'}
+- {name: 'Chili B POV Intro/Outro Animations',   url: 'chilibpovanimation'}
+- {name: 'Common Area Writers Membership Stickers',   url: 'camsticker'}
+- {name: 'Neighborhood Cat-Alog', url: 'neighborhoodcatalog'}
+- {name: 'Personal Illustrations',  url: 'personal'}
 
 #-------------------------------
 # Contact Section
 
 social:
-- {icon: 'instagram', link: 'https://instagram.com/lauradzeng'}
+# - {icon: 'instagram', link: 'https://instagram.com/lauradzeng'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 

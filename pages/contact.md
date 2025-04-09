@@ -4,6 +4,6 @@ title: Contact
 permalink: /contact
 ---
 
-# Contact
-
-You may contact me [through my email](mailto:l.nguyen.paul@gmail.com) or [tweet at me](https://twitter.com/intent/tweet?text=%40paululele) if you have any questions or would like to bring up any issues.
+# Let's connect!
+The best way to contact me is [through my email](mailto:lauradzeng@gmail.com). The best way to keep up with my work/my life is [on Instagram](https://www.instagram.com/lauradzeng). 
+You can also find all of my social links here: [https://linktr.ee/lauradzeng](https://linktr.ee/lauradzeng)

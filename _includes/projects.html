@@ -1,7 +1,7 @@
 <section>
   <div class="project-container">
     {% for project in site.data.settings.projects %}
-      <a href="{{ site.github.url }}/projects/{{ project.url }}">
+      <a href="{{ site.github.url }}/projects/{{ project.url }}" class="project-link">
         <div class="project-unit" data-folder="{{ site.github.url }}/projects/{{ project.url }}" style="background-image: url({{ site.github.url }}/assets/img/projects/{{ project.url }}/thumbnail.jpg)">
           <div class="project-overlay">
             <strong>{{ project.name }} <i class="fa fa-arrow-right" aria-hidden="true"></i></strong>
@@ -11,3 +11,41 @@
     {% endfor %}
   </div>
 </section>
+
+<style>
+  .project-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1rem;
+    padding: 1rem;
+  }
+
+  .project-link {
+    text-decoration: none;
+  }
+
+  .project-unit {
+    position: relative;
+    aspect-ratio: 1 / 1;
+    background-size: cover;
+    background-position: center;
+    border-radius: 8px;
+    overflow: hidden;
+    transition: transform 0.2s;
+  }
+
+  .project-unit:hover {
+    transform: scale(1.02);
+  }
+
+  .project-overlay {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    color: white;
+    padding: 0.5rem;
+    text-align: center;
+    font-weight: bold;
+  }
+</style>
