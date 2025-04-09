@@ -3,8 +3,10 @@ layout: post
 title: 'Common Area Writers Membership Sticker'
 ---
 
-Mauris velit metus, tempor gravida nulla eget, auctor accumsan tellus. Curabitur volutpat sed dolor quis tempus. In scelerisque aliquam felis at tincidunt. Proin non augue fringilla, [pretium justo vitae](#), maximus dui. Nunc ipsum nisi, fermentum sit amet volutpat cursus, sodales ac nisl. Quisque nec tellus sem. Cras pharetra felis non quam mollis, nec efficitur lectus aliquet. Maecenas ipsum felis, eleifend nec [semper venenatis](#), consequat ut nunc. Donec est augue, facilisis quis placerat sed, imperdiet sit amet neque. Maecenas nec risus metus. Nunc non condimentum ipsum. Phasellus consectetur dapibus massa, convallis iaculis nisi vestibulum id. Phasellus et fringilla augue. Donec consequat dui ut rutrum elementum. Aenean nisi arcu, ornare eu lacus vel, faucibus tempor tortor.
+Commissioned by Common Area Maintenance, a Seattle-based artist collective, I designed a set of four die-cut vinyl waterproof stickers to celebrate the launch of their new writers’ membership. The client wanted artwork that reflected both the collaborative nature of writing and the diversity of voices within CAM. Through close collaboration, we landed on four unique designs that visually captured the collective’s inclusive, creative spirit. This project highlights my ability to interpret abstract themes into tangible, high-quality products that speak to a community’s values.
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/dog.jpg" %}
+#### Initial sketches
+{% include image.html image="projects/camsticker/sketch.jpg" %}
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/wall.jpg" %}
+#### Final product
+{% include image.html image="projects/camsticker/thumbnail.jpg" %}

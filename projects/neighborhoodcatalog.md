@@ -3,8 +3,10 @@ layout: post
 title: 'Neighborhood Cat-alog'
 ---
 
-Mauris velit metus, tempor gravida nulla eget, auctor accumsan tellus. Curabitur volutpat sed dolor quis tempus. In scelerisque aliquam felis at tincidunt. Proin non augue fringilla, [pretium justo vitae](#), maximus dui. Nunc ipsum nisi, fermentum sit amet volutpat cursus, sodales ac nisl. Quisque nec tellus sem. Cras pharetra felis non quam mollis, nec efficitur lectus aliquet. Maecenas ipsum felis, eleifend nec [semper venenatis](#), consequat ut nunc. Donec est augue, facilisis quis placerat sed, imperdiet sit amet neque. Maecenas nec risus metus. Nunc non condimentum ipsum. Phasellus consectetur dapibus massa, convallis iaculis nisi vestibulum id. Phasellus et fringilla augue. Donec consequat dui ut rutrum elementum. Aenean nisi arcu, ornare eu lacus vel, faucibus tempor tortor.
+*Neighborhood Cat-alog* is a 22-page risograph zine celebrating the many cats (and other notable creatures) that I’ve encountered in my neighborhood. Printed in fluorescent orange, medium blue, and lime green ink, the zine uses vibrant, punchy color to bring these local animal personalities to life. I handled all writing, illustration, and layout, with a focus on playful observation and bold visual storytelling. The zine debuted at Short Run, Seattle’s annual comic and zine festival, and reflects my love for community-based storytelling and analog print processes.
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/dog.jpg" %}
-
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/wall.jpg" %}
+#### Preview 
+{% include image.html image="projects/neighborhoodcatalog/page1.jpg" %}
+{% include image.html image="projects/neighborhoodcatalog/page2.jpg" %}
+{% include image.html image="projects/neighborhoodcatalog/page3.jpg" %}
+{% include image.html image="projects/neighborhoodcatalog/page4.jpg" %}

@@ -1,10 +1,8 @@
 ---
 layout: post
-title: 'Personal Illustrations'
+title: 'lauradzeng Stickers'
 ---
 
-Mauris velit metus, tempor gravida nulla eget, auctor accumsan tellus. Curabitur volutpat sed dolor quis tempus. In scelerisque aliquam felis at tincidunt. Proin non augue fringilla, [pretium justo vitae](#), maximus dui. Nunc ipsum nisi, fermentum sit amet volutpat cursus, sodales ac nisl. Quisque nec tellus sem. Cras pharetra felis non quam mollis, nec efficitur lectus aliquet. Maecenas ipsum felis, eleifend nec [semper venenatis](#), consequat ut nunc. Donec est augue, facilisis quis placerat sed, imperdiet sit amet neque. Maecenas nec risus metus. Nunc non condimentum ipsum. Phasellus consectetur dapibus massa, convallis iaculis nisi vestibulum id. Phasellus et fringilla augue. Donec consequat dui ut rutrum elementum. Aenean nisi arcu, ornare eu lacus vel, faucibus tempor tortor.
+Through my personal brand *lauradzeng*, I create a wide range of original stickers that span from lighthearted and whimsical to introspective and thought-provoking. Whether it’s a chubby cat on a skateboard or a quiet reflection on identity, each design is grounded in bright, colorful visuals and charming animal characters. These projects allow me to explore storytelling through accessible, small-format art while building a distinct voice that resonates with both casual buyers and deeper thinkers. My designs have found success through both direct sales and wholesale, with 26 retailers (and counting!) carrying my work across the US -- a testament to the broad appeal and staying power of my artistic voice.
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/dog.jpg" %}
-
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/wall.jpg" %}
+{% include image.html image="projects/personal/thumbnail.jpg" %}
