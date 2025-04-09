@@ -4,7 +4,6 @@
 menu:
 - {name: 'Home', url: ''}
 - {name: 'Portfolio',     url: 'portfolio'}
-- {name: 'Posts',     url: 'posts'}
 - {name: 'Contact',  url: 'contact'}
 - {name: 'Shop', url: 'http://lauradzeng.square.site/'}
 
@@ -21,7 +20,8 @@ projects:
 # Contact Section
 
 social:
-# - {icon: 'instagram', link: 'https://instagram.com/lauradzeng'}
+- {icon: 'envelope', link: 'mailto:lauradzeng@gmail.com'}
+- {icon: 'instagram', link: 'https://instagram.com/lauradzeng'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 
