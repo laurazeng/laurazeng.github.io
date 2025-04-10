@@ -3,7 +3,7 @@ layout: page
 title: Home
 ---
 
-<img src="/assets/img/profile.png" alt="Profile picture" class="profile-pic">
+<img src="/profile.png" alt="Profile picture" class="profile-pic">
 
 # Illustrator & Cat Enthusiast
 
