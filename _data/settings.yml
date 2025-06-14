@@ -15,6 +15,7 @@ projects:
 - {name: 'Common Area Writers Membership Stickers',   url: 'camsticker'}
 - {name: 'Neighborhood Cat-Alog', url: 'neighborhoodcatalog'}
 - {name: 'lauradzeng Stickers',  url: 'personal'}
+- {name: 'Firestone Mural', url: 'firestone'}
 
 #-------------------------------
 # Contact Section
